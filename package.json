@@ -1,0 +1,12 @@
+{
+  "name": "dotlit-scala",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daithiocrualaoich/dotlit-scala.git"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-dotlit": "~0.1.2"
+  }
+}
