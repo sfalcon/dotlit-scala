@@ -5,7 +5,7 @@ Sample Literate Scala project using [Dotlit].
 
 Dotlit
 ------
-[Doclit] is a literate programming source code preprocessor. It takes Markdown
+[Dotlit] is a literate programming source code preprocessor. It takes Markdown
 files and extracts code blocks into source files. Used as a preprocessor, this
 means you can write literate style source code in any language.
 
@@ -77,7 +77,7 @@ compiler daemon.)
 
 
 
-[Doclit]: https://github.com/zoopdoop/dotlit
+[Dotlit]: https://github.com/zoopdoop/dotlit
 [NodeJS]: http://nodejs.org
 [Docker]: http://http://www.docker.io
 [VirtualBox]: https://www.virtualbox.org/wiki/Downloads
